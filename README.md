@@ -24,14 +24,13 @@ This repository contains the initial stage of a student project to build a clone
 <center> <h2>General Use</h2> </center>
 
 1. First, clone this repository.
-   ```
-   git clone https://github.com/Daniel-IRYIVUZE/alu-AirBnB_clone_v2
-   ```
-2. After cloning get inside the project folder in your local environment
-
-   ```
-   cd alu-AirBnB_clone_v2
-   ```
+```
+git clone https://github.com/Daniel-IRYIVUZE/alu-AirBnB_clone_v2
+```
+2. After cloning, get inside the project folder in your local environment
+```
+cd alu-AirBnB_clone_v2
+```
 
 4. Once the repository is cloned locate the "console.py" file and run it as follows:
 ```
