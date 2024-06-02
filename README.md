@@ -141,6 +141,6 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ```
 <be>
 
-##### These individuals contributed to the hbnb project in this repository 
--- Daniel Iryivuze <d.iryivuze@alustudent.com>
--- Anabelle Ineza <a.ineza2@alustudent.com>
+#### These individuals contributed to the hbnb project in this repository 
+##### Daniel Iryivuze <d.iryivuze@alustudent.com>
+##### Anabelle Ineza <a.ineza2@alustudent.com>
